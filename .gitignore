@@ -1,0 +1,6 @@
+Manifest.toml
+*.pdf
+/*_suite/
+/experiments/
+/examples/
+/docs/

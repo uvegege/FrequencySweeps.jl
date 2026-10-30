@@ -1,0 +1,17 @@
+name = "FrequencySweeps"
+uuid = "d9f49fb4-724c-4c70-b36b-4eaa58cd6370"
+version = "0.1.0"
+
+[deps]
+ChunkSplitters = "ae650224-84b6-46f8-82ea-d812ca08434e"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
+[compat]
+ChunkSplitters = "3"
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
